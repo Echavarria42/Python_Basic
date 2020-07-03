@@ -6,3 +6,6 @@ Son retos basicos para practicar aspectos fundamentales de python
 
 2) Basic_02  => Simplemente realice funciones que cumplieran con el reto
 "https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-segundo-nivel-condicionales/"
+
+3) Basic_03  => Funciones simples que cumplen con
+"https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-tercer-nivel-strings/"
