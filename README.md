@@ -9,3 +9,6 @@ Son retos basicos para practicar aspectos fundamentales de python
 
 3) Basic_03  => Funciones simples que cumplen con
 "https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-tercer-nivel-strings/"
+
+4) Basic_04  => Continuamos con un poco mas de exigencia
+"https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-cuarto-nivel-matematicas/"
