@@ -14,3 +14,5 @@ Son retos basicos para practicar aspectos fundamentales de python
 "https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-cuarto-nivel-matematicas/"
 
 5) Raiz_cuadrada => Tres diferentes metodos para saber cual es la raiz cuadrada de un numero
+
+6) Binario 
