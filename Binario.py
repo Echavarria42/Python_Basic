@@ -16,27 +16,3 @@ def binario(number):
     return str(number) + binario
 
 print(binario(numero))
-
-
-'''Ejemplo
-    73 : 2 = 36; Resto: 1
-    36 : 2 = 18; Resto: 0 
-    18 : 2 = 9; Resto: 0
-    9 : 2 = 4; Resto: 1
-    4 : 2 = 2; Resto: 0
-    2 : 2 = 1; Resto: 0
-
-    1001001
-
-    Se lee de abajo hacia arriba y se 
-    le agrega 1 ya que no podemos 
-    seguir dividiendo entre dos, 
-    pues el cociente es uno. 
-'''
-
-
-
-
-
-
-
