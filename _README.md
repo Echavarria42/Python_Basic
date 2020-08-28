@@ -15,4 +15,6 @@ Son retos basicos para practicar aspectos fundamentales de python
 
 5) Raiz_cuadrada => Tres diferentes metodos para saber cual es la raiz cuadrada de un numero
 
-6) Binario 
+6) Binario   => Convierte cualquier entero en un número binario
+
+7) Ordenamiento_Burbuja => Ordenamiento de comparación entre 2 numeros en una lista aleatoria de numeros
