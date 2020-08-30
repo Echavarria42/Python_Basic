@@ -20,3 +20,5 @@ Son retos basicos para practicar aspectos fundamentales de python
 7) Ordenamiento_Burbuja => Ordenamiento de comparación entre 2 numeros en una lista aleatoria de numeros
 
 8) math_basic => Funciones basicas como lo son suma, resta, multiplicacion...
+
+9) vectorial  => Funciones en forma de clases de operaciones entre Vectores y Matrices
