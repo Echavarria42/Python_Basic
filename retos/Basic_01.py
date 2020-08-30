@@ -137,9 +137,6 @@ def actividad(name):
         volver(name)
 
 
-
-
-
 if __name__ == "__main__":
     print('''Hola, Preparado para los retos?''')
     name = input('Cual es tu nombre? \n')

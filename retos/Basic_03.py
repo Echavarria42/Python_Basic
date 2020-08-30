@@ -1,9 +1,10 @@
 def longitud(palabra):
     palabra = palabra.replace(' ','')
-    return print(f'Tu string tiene {len(palabra)} letras')
+    return print(f'\n Tu string tiene {len(palabra)} letras')
 
 def suma_iniciales(nombre, apellido, comida, pais):
-    return print(f'''    Nombre: {nombre.title()}
+    return print(f'''    
+    Nombre: {nombre.title()}
     Apellido: {apellido.title()}
     Pais: {pais.title()}
     Tu nombre es {nombre.title()} {apellido.title()} y tu comida favorita es {comida}''')
@@ -34,19 +35,19 @@ if __name__ == "__main__":
     longitud(palabra)
 
     print('\n Todo lo que respondas ponlo todo en minusculas')
-    nombre = input(' Cual es tu nombre? \n')
-    apellido = input(' Cual es tu apellido? \n')
-    comida = input('Cual es tu comida favorita? \n')
-    pais = input('De que pais eres? \n')
+    nombre = input('\n Cual es tu nombre? \n')
+    apellido = input('\n Cual es tu apellido? \n')
+    comida = input('\n Cual es tu comida favorita? \n')
+    pais = input('\n De que pais eres? \n')
     suma_iniciales(nombre, apellido, comida, pais)
 
     print('\n Fragmentemeos una frase')
-    palabra = input('Dime una frase de mas de 10 letras \n')
-    r_inicial = int(input('Dime el numero por donde iniciar: '))
-    r_final = int(input('Dime el numero por donde terminar: '))
+    palabra = input('\n Dime una frase de mas de 10 letras \n')
+    r_inicial = int(input('\n Dime el numero por donde iniciar: '))
+    r_final = int(input('\n Dime el numero por donde terminar: '))
     fragmento(palabra, r_inicial, r_final)
 
-    print('\n Dime 2 palabras')
+    print('\n Dime 2 palabras \n ')
     pal_1 = input('primera palabra: ')
     pal_2 = input('segunda palabra: ')
     Upp_Low(pal_1, pal_2)

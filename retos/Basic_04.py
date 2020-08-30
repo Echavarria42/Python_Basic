@@ -33,9 +33,7 @@ def entero_residuo(num, divisor):
 def area_perimetro(num_lados, distancia_lado):
     perimetro = num_lados*distancia_lado
     a = 360/num_lados
-    print(a)
     apotema = (distancia_lado/2)/math.tan(math.radians(a/2))
-    print(apotema)
     area = (perimetro * apotema)/2
     print(f'Perimetro = {perimetro} \nArea = {area}')
 
@@ -45,10 +43,10 @@ if __name__ == "__main__":
     num_2 = float(input('2° Numero: '))
     num_mult = multiplicar(num_1, num_2)
 
-    dig = int(input('\n¿A cuantas cifras aproximo? \n))
+    dig = int(input('\n¿A cuantas cifras aproximo? \n'))
     redondiar(num_mult, dig) 
 
-    num_3 = float(input('\nTe saco raiz cuadrada del numero: '))
+    num_3 = float(input('\nDime un numero, Le saco raiz cuadrada: '))
     raiz(num_3) 
 
     radio = float(input('\nDime el radio de un circulo: '))

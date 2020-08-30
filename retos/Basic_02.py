@@ -76,5 +76,3 @@ def mensajes_numerados(numero):
         print('No tengo un mensajito para eso')
 
 
-    
-
