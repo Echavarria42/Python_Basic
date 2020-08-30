@@ -18,3 +18,5 @@ Son retos basicos para practicar aspectos fundamentales de python
 6) Binario   => Convierte cualquier entero en un número binario
 
 7) Ordenamiento_Burbuja => Ordenamiento de comparación entre 2 numeros en una lista aleatoria de numeros
+
+8) math_basic => Funciones basicas como lo son suma, resta, multiplicacion...
