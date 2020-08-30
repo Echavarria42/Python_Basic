@@ -1,3 +1,6 @@
+from Vectores import Vector
+
+
 class Matriz:
 
     def __init__(self, matriz):
@@ -22,3 +25,5 @@ if __name__ == '__main__':
     m_1 = Matriz([[1,1,1],[1,1,1],[1,1,1]])
     m_2 = Matriz([[2,2,2],[2,2,2],[2,2,2]])
     m_3 = Matriz([[3,3,3],[3,3,3],[3,3,3]])
+
+    print(m_1.sumar(m_1))
