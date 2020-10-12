@@ -13,7 +13,6 @@ def Encontrar_inverso(Cd_n,mod):
         if a == b :
             return i
 
-
 def chino(residuo, modulo,n):
     producto = multiplicar(modulo)
     Cd_n = [int(producto/i) for i in modulo]
