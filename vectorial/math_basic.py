@@ -51,6 +51,5 @@ def permuta(c):
                 for s in permuta(c[1:])],
                [])
 
-def prueba():
-    print('Probando')
-    print('Continuo probando git')
+def promedio(lista):
+    return sum(lista)/len(lista)

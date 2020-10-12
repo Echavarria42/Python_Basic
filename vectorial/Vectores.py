@@ -34,3 +34,5 @@ if __name__ == '__main__':
     v_3 = Vector([3,3,3])
 
 
+    print(v_1.restar(v_2))
+
